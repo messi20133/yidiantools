@@ -1,0 +1,22 @@
+{
+  "name": "yidiantools",
+  "version": "1.0.0",
+  "description": "yidianzixun ad tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yidianzixun",
+    "ad",
+    "tools"
+  ],
+  "bin": {
+    "yidianadfe": "./index.js"
+  },
+  "author": "tangyunlong",
+  "license": "ISC",
+  "devDependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
